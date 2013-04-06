@@ -1,0 +1,26 @@
+{
+  "name": "content-tree",
+  "version": "0.0.1",
+  "description": "Generate a json representation of a file tree with file information",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trodrigues/node-content-tree.git"
+  },
+  "keywords": [
+    "tree",
+    "json",
+    "file",
+    "object",
+    "content"
+  ],
+  "author": {
+    "name": "Tiago Rodrigues",
+    "email": "tmcrodrigues@gmail.com",
+    "url": "http://trodrigues.net"
+  },
+  "license": "MIT"
+}
