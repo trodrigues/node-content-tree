@@ -6,7 +6,6 @@ var path = require('path'),
     findit = require('findit');
 
 
-//TODO split this guy into it's own module
 var ContentTree = function(contentsPath) {
   this.tree = {};
   this.contentsPath = contentsPath;
