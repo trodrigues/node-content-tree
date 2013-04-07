@@ -22,5 +22,10 @@
     "email": "tmcrodrigues@gmail.com",
     "url": "http://trodrigues.net"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "q": "~0.9.2",
+    "mime": "~1.2.9",
+    "findit": "~0.1.2"
+  }
 }
